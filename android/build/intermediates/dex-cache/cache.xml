@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_9dc1b635aa6a76b7fad06b951c90df888fc0a8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_c549ac10da6fb8c631c0c54c0495fce15a258914.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_bc33b19bcf09ada50fea15f83c397ece62c7a50a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_0fff60e467489e257237c526c291b4f79da80c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_6b73c78eb66c49261d253206d024a85b56b30b54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_0c13548b7b6b2d1173d809e45fe48f86ae87548b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_7a68beee644350564c5af4f29b5e82fb18dbbaaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.43.3_ef59a7185d2f493cbfa145c7df6d6db8b69b1868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\EatSavvy\react-native-maps\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dfe415137a847f99a59cee27485aea5dedd9b09c">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\EatSavvy-react-native-maps-unspecified_767df7aca8c43f4bd3911a8dfa32c59f837716dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_5de4147a69d2914d8431b4ba57dce1405b79b49d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\EatSavvy\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b319ff9834bbeb9be394687614eb86892699ea14">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\EatSavvy-react-native-vector-icons-unspecified_b09a3f0dd50358a510934a45ef80cd06552c5fdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.43.3\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_d765c651a2e48f29725cfef1c8f4e0ed0b543111.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_7f99f76372917739c7f3f641cdeed3aa420fb57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_2e66370aa75ac5d5221f0e2538b975455d01b833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_ba46a82ffa3b676deec53e5d88fa29c343edd9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_67c81aa905a1f67078460217c2e24c754b744ad1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_ca0fd223af270a91b62489b873e91a87d0e84fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_7e85dfe3676ebe9416097ac8cb19917a16cd8b1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_e222dd8e74d67fec447fcd6c15826e0c1d5f5468.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_5c434c83e0700c7bed77357282b842fc6f5420fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_497e5dd2d2ca7f8395cbeb821feead1232a53883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_fa4fa6794592a39b97f6e227fa8686dfc42c55a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c854aefe9b93a11b9cae33b86b555ec105468a05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_882b321d1a6e6085b7bb69ca8dab4a62901d404c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_a04fdf8405f6c917da09a05b96b606b440a7ca4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ef26c6f119ba671de8d518509fbd7894c7c47024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\family\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_15dfe6469f1669f2b23576c40dfbd78df1dbae3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_002a72a72632f627f66d00a9b59cc8bdaa254749.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="G:\Projects\Yegor\Ronan\eatsavvy\eatsavvy\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_9f43a42a79fe156488af90aaa6ac593bf106e575.jar" />
+    </item>
+
+</items>
